@@ -24,6 +24,7 @@ const Home = () => {
         </div>
         <div style={{ margin: "50px 0 0 20px" }}>
           <span>RealMe</span>
+          &nbsp;&nbsp;
           <span>Rs: 40,000/-</span>
         </div>
         <div>
